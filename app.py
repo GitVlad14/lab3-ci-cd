@@ -1,6 +1,1 @@
-def add(a, b):
-    return a + b
-
-
-def reverse_string(s):
-    return s[::-1]
+assert add(2, 3) == 6
